@@ -1,2 +1,2 @@
 # Portfolio
-Create Portfolio with Next JS
+Create Portfolio with Next JS.
